@@ -1,0 +1,134 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.svn/
+*.dart_tool/
+*.packages
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.yaml
+
+# Flutter/Dart specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.lock
+.packages
+*.lock
+
+# Web related
+web/.dart_tool/
+web/.packages
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# IntelliJ related
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Editors
+.DS_Store
+*.swp
+*~
+.*.sw[a-z]
+.idea/
+*.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/vcs.xml
+*.iml
+.gradle
+*.hprof
+*.pyc
+
+# Android Studio
+.local/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/.name
+.idea/vcs.xml
+.idea/shelf/
+.gradle/
+android/.gradle
+android/app/build/
+android/app/app.iml
+android/local.properties
+android/.idea
+android/build/
+
+# iOS related
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner.xcworkspace/
+ios/build/
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Release.xcconfig
+ios/Podfile
+ios/Podfile.lock
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+*.xcodeproj/*
+!ios/Runner.xcodeproj/project.pbxproj
+!ios/Runner.xcodeproj/xcshareddata/xcschemes
+*.xcworkspace/
+!ios/Runner.xcworkspace/contents.xcworkspacedata
+ios/Flutter/ephemeral/
+
+# Firebase/Android related
+android/key.properties
+
+# Miscellaneous
+*.log
+*.tmp
+*.tmp.*
+*.temp
+*.temp.*
+*.orig
+*.bak
+*.swp
+*.swp.*
+*~
+*.idea/
+*.tmp/
+*.tmp.*
+*.temp/
+*.temp.*
+*.log/
+*.log.*
+*.bak/
+*.bak.*
+*.swp/
+*.swp.*
+
+# MacOS specific
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
